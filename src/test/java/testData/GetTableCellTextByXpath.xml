@@ -1,0 +1,20 @@
+<data>
+    <entry>
+        <searchColumn>1</searchColumn>
+        <searchText>Centro comercial Moctezuma</searchText>
+        <returnColumnText>3</returnColumnText>
+        <expectedText>Mexico</expectedText>
+    </entry>
+    <entry>
+        <searchColumn>2</searchColumn>
+        <searchText>Yoshi Tannamuri</searchText>
+        <returnColumnText>3</returnColumnText>
+        <expectedText>Canada</expectedText>
+    </entry>
+    <entry>
+        <searchColumn>3</searchColumn>
+        <searchText>Germany</searchText>
+        <returnColumnText>1</returnColumnText>
+        <expectedText>Alfreds Futterkiste</expectedText>
+    </entry>
+</data>

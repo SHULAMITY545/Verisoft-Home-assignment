@@ -1,0 +1,4 @@
+searchColumn,searchText,returnColumnText,expectedText,expectedResult
+1,Centro comercial Moctezuma,3,Mexico,true
+2,Yoshi Tannamuri,3,Canadaa,false
+3,Germany,1,Alfreds Futterkiste,true
