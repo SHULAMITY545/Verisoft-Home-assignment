@@ -1,8 +1,8 @@
-# Verisoft-Home Assignment
+-- Verisoft-Home Assignment
 
 This project contains test automation code that demonstrates usage of Selenium WebDriver for automated testing of web pages. The main purpose is to showcase basic implementation of automated tests using Java and TestNG.
 
-## Project Structure
+-- Project Structure
 
 The project is structured as follows:
 
@@ -10,27 +10,27 @@ The project is structured as follows:
 - **src/main/java/org/verisoft/utils/:** Contains utility classes for handling CSV and XML data.
 - **src/test/java/org/verisoft/classes/:** Contains test classes that use the `Table` class to perform automated tests.
 
-## Pre-requisites
+-- Pre-requisites
 
 - Java JDK (version 8 or higher)
 - Maven (for executing tests and managing dependencies)
-- Chrome browser (for running tests using Chrome WebDriver)
+- EdgeDriver browser (for running tests using Edge WebDriver)
 
-## Installation and Execution
+-- Installation and Execution
 
-1. Clone the repository from GitHub/Bitbucket:
+*. Clone the repository from GitHub/Bitbucket:
 
     ```bash
-    git clone https://github.com/Oriya2/verisoft.git
+    git clone https://github.com/SHULAMITY545/Verisoft-Home-assignment
     ```
 
-2. Navigate to the project root directory:
+**. Navigate to the project root directory:
 
     ```bash
     cd verisoft
     ```
 
-3. Execute the tests using Maven:
+***. Execute the tests using Maven:
 
     ```bash
     mvn test
@@ -40,7 +40,7 @@ This command will execute the automated tests specified in the test classes usin
 
 ## Notes
 
-1. This project uses Selenium WebDriver to automate interactions with web pages.
-2. Tests are executed using TestNG framework.
-4. The project is designed to read data from CSV and XML files for test data input.
-5. To ensure smooth execution, please ensure the Chrome WebDriver is compatible with your Chrome browser version.
+* This project uses Selenium EdgeDriver to automate interactions with web pages.
+** Tests are executed using TestNG framework.
+*** The project is designed to read data from CSV and XML files for test data input.
+****To ensure smooth execution, please ensure the EdgeDriver WebDriver is compatible with your Edge browser version.
