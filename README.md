@@ -18,19 +18,19 @@ The project is structured as follows:
 
 -- Installation and Execution
 
-*. Clone the repository from GitHub/Bitbucket:
+* Clone the repository from GitHub/Bitbucket:
 
     ```bash
     git clone https://github.com/SHULAMITY545/Verisoft-Home-assignment
     ```
 
-**. Navigate to the project root directory:
+** Navigate to the project root directory:
 
     ```bash
     cd verisoft
     ```
 
-***. Execute the tests using Maven:
+*** Execute the tests using Maven:
 
     ```bash
     mvn test
